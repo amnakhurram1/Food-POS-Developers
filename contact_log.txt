@@ -1,0 +1,4 @@
+[2025-11-19 06:15:50] ticket=POS-000 | name=ahmedgarments | email=razaomer00@gmail.com | message=hey i want to discuss something
+[2025-11-19 06:44:05] ticket=POS-000 | name=sasa | email=saa@gmail.com | message=aa
+[2025-11-19 07:48:54] ticket=POS-000 | name=men | email=jnjn@gmail.com | message=njnjn
+[2025-11-23 13:09:35] ticket=POS-000 | name=jnjnsj | email=umar@gmail.com | message=r3r3
